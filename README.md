@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imakinaa&label=Profile%20views&color=0e75b6&style=flat" alt="imakinaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imakinaa" alt="imakinaa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lmakinaa" alt="lmakinaa" /></a> </p>
 
 - 🔭 I'm currently working on **scalable backend systems with FastAPI and microservices architecture**
 
