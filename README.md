@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ismail Jaija</h1>
 <h3 align="center">A passionate IT Technology professional specializing in backend development, GenAI, and DevOps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imakinaa&label=Profile%20views&color=0e75b6&style=flat" alt="imakinaa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lmakinaa&label=Profile%20views&color=0e75b6&style=flat" alt="lmakinaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lmakinaa" alt="lmakinaa" /></a> </p>
 
@@ -45,6 +45,6 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imakinaa&show_icons=true&locale=en&layout=compact" alt="imakinaa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lmakinaa&show_icons=true&locale=en&layout=compact" alt="lmakinaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imakinaa&show_icons=true&locale=en" alt="imakinaa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lmakinaa&show_icons=true&locale=en" alt="lmakinaa" /></p>
